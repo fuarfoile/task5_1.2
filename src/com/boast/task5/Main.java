@@ -67,6 +67,7 @@ class Counter implements Runnable{
         }
     }
 }
+
 class Printer implements Runnable{
     Data data;
 
